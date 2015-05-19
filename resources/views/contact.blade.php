@@ -1,8 +1,5 @@
-<!DOCTYPE HTML>
-<html>
-<body>
 
-<h1>Contact Me!!!!</h1>
-
-</body>
-</html>
+@extends('layout')
+@section('content')
+	<h1>Contact Me!!!!</h1>
+@endsection
